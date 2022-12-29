@@ -1,8 +1,7 @@
 # 👋 Hi! I'm Nereo
 
 If you don't know me, let me quickly introduce myself. I started off my career as a Software Engineer almost 15 years ago, and later I moved to different positions
-like Scrum Master, Engineering Manager, Innovation Manager and currently Head of Engineering. Still, I try to find as much time as I can to keep learning and improving on the 
-technical side 😁
+like Scrum Master, Engineering Manager, Innovation Manager, Head of Engineering and currently Sr Manager in Software Development at Amazon. Still, I try to find as much time as I can to keep learning and improving on the technical side 😁
 
 Aside of that, I started the Ionic community here in Barcelona back in 2015 (and handed it over when I relocated to Germany for a year in 2016) and I also give trainings 
 on different technologies and methodologies from time to time (Development, Automation, DevOps,  Agile...)
